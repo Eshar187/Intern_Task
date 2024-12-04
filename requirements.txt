@@ -1,4 +1,4 @@
-uvicorn==3.9.9
+uvicorn==0.29.0
 fastapi==0.115.5
 pydantic==2.10.3
 pymongo==4.10.1
